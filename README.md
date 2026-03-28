@@ -13,6 +13,32 @@ I'm Jonathan and I develop projects in my sparetime that help myself and others 
 - [Linkedin](https://www.linkedin.com/in/jonathan-windell-418a55232/)
 - [Portfolio](https://portfolio.jonathans-labb.org/)
 
+
+# Project Structure
+
+```text
+.
+├── concepts/                 # Theoretical depth & mental models (Explanation)
+│   ├── images-concepts/      # Diagrams and assets for conceptual understanding
+│   ├── architecture.md       # Git's internal data structures (Building Blocks)
+│   └── three-states.md       # Detailed view of Working Dir, Staging, and Repo
+├── examples/                 # Hands-on learning & task-based guides (Tutorials)
+│   ├── images-examples/      # Screenshots and walk-through visuals
+│   ├── basics.md             # Foundational command workflows
+│   ├── branching.md          # Strategies for parallel development
+│   ├── git-aliases.md        # Terminal productivity and shorthand
+│   ├── git-ignore.md         # Noise reduction and security filtering
+│   ├── merging.md            # Integrating code changes
+│   ├── rebasing.md           # Maintaining linear history
+│   ├── remote-work.md        # Collaborating via GitHub/GitLab
+│   └── squashing.md          # Mastering commit history cleanup
+├── troubleshooting/          # Goal-oriented problem solving (How-to Guides)
+│   ├── merge-conflicts.md    # Strategies for conflict resolution
+│   └── undoing-mistakes.md   # Safety nets and recovery procedures
+├── LICENSE                   # Legal terms and usage rights
+└── README.md                 # Project landing page and entry point
+```
+
 # Usage Instructions
 1. Browse to the specific file that contains information you need.
 2. Read about how to solve the problem and use the `commands` listed. 
