@@ -27,9 +27,7 @@ If you wish to create a git repository you can follow this tutorial. [Getting a 
 git init <project directory> #This creates a git repository in your chosen directory. 
 ```
 
-### 2.1 Initializing a New Repository (`git init`)
-
-### 2.2 Cloning an Existing Repository (`git clone`)
+### 2.1 Cloning an Existing Repository (`git clone`)
 Cloning a git repostitory means you have already created a git repository but it's maybe on another machine and you wish to get access on your current machine. 
 
 ```git
