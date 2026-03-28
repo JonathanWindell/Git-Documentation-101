@@ -54,7 +54,10 @@ git commit -m "Your commit message"
 git push origin <your-branch-name>
 ```
 
-> ***Note:*** It is rare to push changes directly to `main`. In most team workflows a pull request is opened on GitHub or a similar platform so that changes can be reviewed before merging. You can read more about that here: [GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). You can also find more information about it here:
+> ***Note:*** It is rare to push changes directly to `main`. In most team workflows a pull request is opened on GitHub or a similar platform so that changes can be reviewed before merging. You can read more about that here: 
+
+- [GitHub: Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). 
+- [Github: Merging Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)
 
 ---
 
