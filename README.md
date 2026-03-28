@@ -16,28 +16,25 @@ I'm Jonathan and I develop projects in my sparetime that help myself and others 
 
 # Project Structure
 
-```text
-.
-├── concepts/                 # Theoretical depth & mental models (Explanation)
-│   ├── images-concepts/      # Diagrams and assets for conceptual understanding
-│   ├── architecture.md       # Git's internal data structures (Building Blocks)
-│   └── three-states.md       # Detailed view of Working Dir, Staging, and Repo
-├── examples/                 # Hands-on learning & task-based guides (Tutorials)
-│   ├── images-examples/      # Screenshots and walk-through visuals
-│   ├── basics.md             # Foundational command workflows
-│   ├── branching.md          # Strategies for parallel development
-│   ├── git-aliases.md        # Terminal productivity and shorthand
-│   ├── git-ignore.md         # Noise reduction and security filtering
-│   ├── merging.md            # Integrating code changes
-│   ├── rebasing.md           # Maintaining linear history
-│   ├── remote-work.md        # Collaborating via GitHub/GitLab
-│   └── squashing.md          # Mastering commit history cleanup
-├── troubleshooting/          # Goal-oriented problem solving (How-to Guides)
-│   ├── merge-conflicts.md    # Strategies for conflict resolution
-│   └── undoing-mistakes.md   # Safety nets and recovery procedures
-├── LICENSE                   # Legal terms and usage rights
-└── README.md                 # Project landing page and entry point
-```
+## Concepts
+- [Architecture](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/concepts/architecture.md)
+- [Three States of Git](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/concepts/three-states.md)
+
+## Examples 
+- [Basics](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/basics.md)
+- [Branching](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/branching.md)
+- [Merges](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/merging.md)
+- [Rebases](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/rebasing.md)
+- [Squashing](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/squashing.md)
+- [Remote Repositories](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/remote-work.md)
+- [Aliases](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/git-aliases.md)
+- [.gitignore](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/examples/git-ignore.md)
+
+
+## Troubleshooting
+- [Merge Conflicts](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/troubleshooting/merge-conflicts.md)
+- [Undoing & Reverting](https://github.com/JonathanWindell/Git-Documentation-101/blob/main/troubleshooting/undoing-mistakes.md)
+
 
 # Usage Instructions
 1. Browse to the specific file that contains information you need.
