@@ -1,4 +1,5 @@
 # Git-101
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Highlights
 - **Easy to Read:** The focus of this repository is to sum up and hopefully create easier git documentation with the necessary knowledge to be able to use git and all of it's features. 
