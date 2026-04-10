@@ -1,4 +1,4 @@
-## Undoing Mistakes
+# Undoing Mistakes
 
 ## 1. Introduction: Reverting Made Changes
 Sometimes things to do not go to plan when we're working with git. This is why it's important to know how undo things or revert back to old commits that we're working. **Important** thing to know when working with undoing is that you can't always undo some of the undos you have done meaning you might lose some of the work you've done. One of the common things that might require an undo is commiting to early and forgetting some files you have not added and started tracking. 
